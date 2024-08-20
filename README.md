@@ -7,7 +7,7 @@ This project explores the characteristics of drivers who are likely to accept di
 - **Bar Coupons**: Younger drivers and those who are more socially active are more likely to accept bar coupons.
 - **Coffee House Coupons**: Frequent coffee drinkers, especially those who visit coffee houses with friends or partners, are more inclined to accept coffee house coupons.
 
-For a detailed analysis, please see the [Jupyter Notebook](CustomerAcceptance/blob/main/assignment_5_1_starter%20(1)/prompt.ipynb).
+For a detailed analysis, please see the [Jupyter Notebook](assignment_5_1_starter (1)/prompt.ipynb).
 
 ## Project Organization
 
