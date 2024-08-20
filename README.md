@@ -21,11 +21,11 @@ For a detailed analysis, please see the [Jupyter Notebook](assignment_5_1_starte
     ```bash
     git clone https://github.com/RyanBein205/CustomerAcceptance.git
     ```
-2. Navigate to the `notebook` directory and open the notebook using Jupyter:
+2. Navigate to the `Assignment_5_1_starter(1)` directory and open the notebook using Jupyter:
     ```bash
-    jupyter notebook notebook/coffee_house_analysis.ipynb
+    jupyter notebook prompt.ipynb
     ```
 
 ## Link to Notebook
-[View the Jupyter Notebook](prompt.ipynb)
+[View the Jupyter Notebook](assignment_5_1_starter%20(1)/prompt.ipynb)
 
