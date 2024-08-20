@@ -7,19 +7,19 @@ This project explores the characteristics of drivers who are likely to accept di
 - **Bar Coupons**: Younger drivers and those who are more socially active are more likely to accept bar coupons.
 - **Coffee House Coupons**: Frequent coffee drinkers, especially those who visit coffee houses with friends or partners, are more inclined to accept coffee house coupons.
 
-For a detailed analysis, please see the [Jupyter Notebook](notebook/coffee_house_analysis.ipynb).
+For a detailed analysis, please see the [Jupyter Notebook](prompt.ipynb.ipynb).
 
 ## Project Organization
 
-- **data/**: Contains the dataset used for analysis.
-- **notebook/**: Contains the Jupyter Notebook with the analysis.
-- **images/**: (Optional) Contains images used in the README or the notebook.
+- data: Contains the dataset used for analysis.
+- prompt.ipynb: Contains the Jupyter Notebook with the analysis.
+- images: Contains images used in the README or the notebook.
 
 ## How to Run the Notebook
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/RyanBein205/CustomerAcceptance.git
     ```
 2. Navigate to the `notebook` directory and open the notebook using Jupyter:
     ```bash
@@ -27,5 +27,5 @@ For a detailed analysis, please see the [Jupyter Notebook](notebook/coffee_house
     ```
 
 ## Link to Notebook
-[View the Jupyter Notebook](notebook/coffee_house_analysis.ipynb)
+[View the Jupyter Notebook](prompt.ipynb)
 
